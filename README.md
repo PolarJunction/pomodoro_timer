@@ -1,6 +1,7 @@
 # pomodorotimer
 
 A Pomodoro Focus Timer
+Developed in Flutter
 
 ## Screenshots
 
